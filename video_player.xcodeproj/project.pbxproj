@@ -16,6 +16,7 @@
 		8E15D46929F12081001AB42F /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E15D46829F12081001AB42F /* video_playerTests.swift */; };
 		8E15D47329F12081001AB42F /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E15D47229F12081001AB42F /* video_playerUITests.swift */; };
 		8E15D47529F12081001AB42F /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E15D47429F12081001AB42F /* video_playerUITestsLaunchTests.swift */; };
+		8E15D48829F40204001AB42F /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8E15D48729F40204001AB42F /* test.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8E15D46E29F12081001AB42F /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E15D47229F12081001AB42F /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		8E15D47429F12081001AB42F /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8E15D48729F40204001AB42F /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = test.mp4; path = ../../../Downloads/test.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8E15D45329F1207F001AB42F /* SceneDelegate.swift */,
 				8E15D45529F1207F001AB42F /* ViewController.swift */,
 				8E15D45729F1207F001AB42F /* Main.storyboard */,
+				8E15D48729F40204001AB42F /* test.mp4 */,
 				8E15D45A29F12081001AB42F /* Assets.xcassets */,
 				8E15D45C29F12081001AB42F /* LaunchScreen.storyboard */,
 				8E15D45F29F12081001AB42F /* Info.plist */,
@@ -234,6 +237,7 @@
 				8E15D45E29F12081001AB42F /* LaunchScreen.storyboard in Resources */,
 				8E15D45B29F12081001AB42F /* Assets.xcassets in Resources */,
 				8E15D45929F1207F001AB42F /* Main.storyboard in Resources */,
+				8E15D48829F40204001AB42F /* test.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
